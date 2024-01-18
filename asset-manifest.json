@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IndianSnacks_Website/static/css/main.acbfc845.css",
+    "main.js": "/IndianSnacks_Website/static/js/main.a5b0c66f.js",
+    "index.html": "/IndianSnacks_Website/index.html",
+    "main.acbfc845.css.map": "/IndianSnacks_Website/static/css/main.acbfc845.css.map",
+    "main.a5b0c66f.js.map": "/IndianSnacks_Website/static/js/main.a5b0c66f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acbfc845.css",
+    "static/js/main.a5b0c66f.js"
+  ]
+}
